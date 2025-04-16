@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meet Shah</h1>
 <h3 align="center">A Backend developer who is always up for new challenges and opportunities, and loves to solve problems. Love to code and make web applications. Experience building web applications and APIs using NodeJs, Express, and MongoDB.</h3>
 
-- 🔭 I’m currently working on **NodeJS**
+- 🔭 I’m currently working on **ReactJS, NodeJS**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NextJS**
 
 - 📫 How to reach me **meetdshah98@gmail.com**
 
